@@ -12,4 +12,4 @@ if __name__ == '__main__':
         with open('output.csv', 'w') as f:
             f.write(output)
     except Exception as ex:
-        print(f'Error: {str(ex)}')
+        print(f'Error: {str(ex)}').......
