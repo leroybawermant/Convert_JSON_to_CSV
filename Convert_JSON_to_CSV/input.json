@@ -9,4 +9,9 @@
     "age": 34,
     "birthyear": "1986"
   }
-]
+]body {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
